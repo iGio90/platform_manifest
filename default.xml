@@ -369,15 +369,15 @@
   <project path="vendor/tmobile" name="ParanoidAndroid/android_vendor_tmobile" revision="jellybean" />
 
   <!-- JELLYBAM -->
-  <project path="platform_manifest" name="iGio90/platform_manifest" />
-  <project path="frameworks/base" name="iGio90/android_frameworks_base" />
+  <project path="platform_manifest" name="iGio90/platform_manifest" revision="bam6" />
+  <project path="frameworks/base" name="iGio90/android_frameworks_base" revision="bam6" />
   <project path="packages/apps/Phone" name="iGio90/android_packages_apps_Phone" />
   <project path="packages/apps/Settings" name="iGio90/packages_apps_Settings" revision="bam6" />
   <project path="packages/apps/Trebuchet" name="iGio90/android_packages_apps_Trebuchet" />
-  <project path="system/core" name="iGio90/android_system_core" />
+  <project path="system/core" name="iGio90/android_system_core" revision="bam6" />
   <project path="vendor/jellybam" name="iGio90/jellybam_vendor" revision="bam6" />
 
-  <project path="jellybam" name="iGio90/jellybam" >
+  <project path="jellybam" name="iGio90/jellybam" revision="bam6" >
     <copyfile dest="bam-build.sh" src="build.sh"/>
   </project>
 
