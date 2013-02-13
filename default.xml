@@ -376,6 +376,7 @@
   <project path="packages/apps/Trebuchet" name="iGio90/android_packages_apps_Trebuchet" />
   <project path="system/core" name="iGio90/android_system_core" revision="bam6" />
   <project path="vendor/jellybam" name="iGio90/jellybam_vendor" revision="bam6" />
+  <project path="packages/apps/BamPapers" name="iGio90/packages_apps_jellybam_papers" revision="jellybam" />
 
   <project path="jellybam" name="iGio90/jellybam" revision="bam6" >
     <copyfile dest="bam-build.sh" src="build.sh"/>
