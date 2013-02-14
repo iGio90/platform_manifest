@@ -362,7 +362,6 @@
 
   <!-- PA -->
   <project path="external/doclava" name="ParanoidAndroid/android_external_doclava" revision="jellybean" />
-  <project path="vendor/pa" name="ParanoidAndroid/android_vendor_pa" revision="9ccb9eb519c3e7390c580ef7ba5109593dcaad0f" />
   <project path="vendor/tmobile" name="ParanoidAndroid/android_vendor_tmobile" revision="jellybean" />
 
   <!-- JELLYBAM -->
@@ -381,6 +380,7 @@
   <project path="system/core" name="iGio90/android_system_core" revision="bam6" />
 
   <project path="vendor/jellybam" name="iGio90/jellybam_vendor" revision="bam6" />
+  <project path="vendor/pa" name="iGio90/vendor_pa" revision="bam6" />
 
   <project path="jellybam" name="iGio90/jellybam" revision="bam6" >
     <copyfile dest="bam-build.sh" src="build.sh"/>
