@@ -261,7 +261,6 @@
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" />
   <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" />
   <project path="packages/apps/Calendar" name="CyanogenMod/android_packages_apps_Calendar" />
-  <project path="packages/apps/Camera" name="CyanogenMod/android_packages_apps_Camera" />
   <project path="packages/apps/CellBroadcastReceiver" name="CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
   <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" />
@@ -271,7 +270,6 @@
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" />
   <project path="packages/apps/Exchange" name="CyanogenMod/android_packages_apps_Exchange" />
   <project path="packages/apps/Gallery" name="CyanogenMod/android_packages_apps_Gallery" />
-  <project path="packages/apps/Gallery2" name="CyanogenMod/android_packages_apps_Gallery2" />
   <project path="packages/apps/HTMLViewer" name="CyanogenMod/android_packages_apps_HTMLViewer" />
   <project path="packages/apps/KeyChain" name="CyanogenMod/android_packages_apps_KeyChain" />
   <project path="packages/apps/Launcher2" name="CyanogenMod/android_packages_apps_Launcher2" />
@@ -362,7 +360,6 @@
 
   <!-- AOKP -->
   <project path="packages/apps/PerformanceControl" name="AOKP/packages_apps_PerformanceControl" revision="jb-mr1" />
-  <project path="packages/apps/ROMControl" name="AOKP/packages_apps_ROMControl" revision="08742dd141fe7490962d32a6fd2c88bcc1afefb1" />
 
   <!-- PA -->
   <project path="external/doclava" name="ParanoidAndroid/android_external_doclava" revision="jellybean" />
@@ -377,6 +374,9 @@
   <project path="system/core" name="iGio90/android_system_core" revision="bam6" />
   <project path="vendor/jellybam" name="iGio90/jellybam_vendor" revision="bam6" />
   <project path="packages/apps/BamPapers" name="iGio90/packages_apps_jellybam_papers" revision="jellybam" />
+  <project path="packages/apps/Camera" name="iGio90/packages_apps_jellybam_Camera" revision="bam6" />
+  <project path="packages/apps/Gallery2" name="iGio90/packages_apps_Gallery2" revision="bam6" />
+  <project path="packages/apps/ROMControl" name="iGio90/packages_apps_ROMControl" revision="bam6" />
 
   <project path="jellybam" name="iGio90/jellybam" revision="bam6" >
     <copyfile dest="bam-build.sh" src="build.sh"/>
