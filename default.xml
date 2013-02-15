@@ -386,4 +386,33 @@
     <copyfile dest="bam-build.sh" src="build.sh"/>
   </project>
 
+  <!-- Device -->
+  <project path="device/samsung/galaxys2-common" name="CyanogenMod/android_device_samsung_galaxys2-common" revision="cm-10.1" /> 
+  <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" revision="cm-10.1" />
+  <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" revision="cm-10.1" />
+
+  <!-- Kernels -->
+  <project path="kernel/samsung/smdk4210" name="CyanogenMod/android_kernel_samsung_smdk4210" revision="cm-10.1" />
+
+  <!-- Prop vendors -->
+  <project name="TheMuppets/proprietary_vendor_acer" path="vendor/acer" revision="cm-10.1" />
+  <project name="TheMuppets/proprietary_vendor_akm" path="vendor/akm" revision="cm-10.1" />
+  <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" revision="cm-10.1" />
+  <project name="TheMuppets/proprietary_vendor_audience" path="vendor/audience" revision="cm-10.1" />
+  <project name="TheMuppets/proprietary_vendor_bn" path="vendor/bn" revision="cm-10.1" />
+  <project name="TheMuppets/proprietary_vendor_broadcom" path="vendor/broadcom" revision="cm-10.1" />
+  <project name="TheMuppets/proprietary_vendor_elan" path="vendor/elan" revision="cm-10.1" />
+  <project name="TheMuppets/proprietary_vendor_google" path="vendor/google" revision="cm-10.1" />
+  <project name="TheMuppets/proprietary_vendor_hardkernel" path="vendor/hardkernel" revision="cm-10.1" />
+  <project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc" revision="cm-10.1" />
+  <project name="TheMuppets/proprietary_vendor_invensense" path="vendor/invensense" revision="cm-10.1" />
+  <project name="TheMuppets/proprietary_vendor_imgtec" path="vendor/imgtec" revision="cm-10.1" />
+  <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge" revision="cm-10.1" />
+  <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" revision="cm-10.1" />
+  <project name="TheMuppets/proprietary_vendor_nvidia" path="vendor/nvidia" revision="cm-10.1" />
+  <project name="TheMuppets/proprietary_vendor_nxp" path="vendor/nxp" revision="cm-10.1" />
+  <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" revision="cm-10.1" />
+  <project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony" revision="cm-10.1" />
+  <project name="TheMuppets/proprietary_vendor_widevine" path="vendor/widevine" revision="cm-10.1" />
+
 </manifest>
