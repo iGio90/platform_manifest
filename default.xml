@@ -388,6 +388,7 @@
 
   <!-- Device -->
   <project path="device/samsung/galaxys2-common" name="CyanogenMod/android_device_samsung_galaxys2-common" revision="cm-10.1" /> 
+  <project path="device/samsung/i9100" name="CyanogenMod/android_device_samsung_i9100" revision="cm-10.1" />
   <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" revision="cm-10.1" />
   <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" revision="cm-10.1" />
 
