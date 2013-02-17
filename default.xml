@@ -367,15 +367,15 @@
 
   <project path="frameworks/base" name="iGio90/android_frameworks_base" revision="bam6" />
 
-  <project path="packages/apps/Contacts" name="iGio90/packages_apps_Contacts" />
+  <project path="packages/apps/Contacts" name="iGio90/packages_apps_Contacts" revision="bam6" />
   <project path="packages/apps/Settings" name="iGio90/packages_apps_Settings" revision="bam6" />
-  <project path="packages/apps/Trebuchet" name="iGio90/android_packages_apps_Trebuchet" />
+  <project path="packages/apps/Trebuchet" name="iGio90/android_packages_apps_Trebuchet" revision="bam6" />
   <project path="packages/apps/BamPapers" name="iGio90/packages_apps_jellybam_papers" revision="jellybam" />
   <project path="packages/apps/Camera" name="iGio90/packages_apps_jellybam_Camera" revision="bam6" />
   <project path="packages/apps/Gallery2" name="iGio90/packages_apps_Gallery2" revision="bam6" />
-  <project path="packages/apps/Phone" name="iGio90/packages_apps_Phone" />
+  <project path="packages/apps/Phone" name="iGio90/packages_apps_Phone" revision="bam6" />
   <project path="packages/apps/ROMControl" name="iGio90/packages_apps_ROMControl" revision="bam6" />
-  <project path="packages/providers/ContactsProvider" name="iGio90/packages_providers_ContactsProvider" />
+  <project path="packages/providers/ContactsProvider" name="iGio90/packages_providers_ContactsProvider" revision="bam6" />
 
   <project path="system/core" name="iGio90/android_system_core" revision="bam6" />
 
