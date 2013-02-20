@@ -365,7 +365,7 @@
   <!-- JELLYBAM -->
   <project path="platform_manifest" name="iGio90/platform_manifest" revision="bam6" />
 
-  <project path="frameworks/base" name="iGio90/android_frameworks_base" />
+  <project path="frameworks/base" name="iGio90/frameworks_base" />
 
   <project path="packages/apps/Contacts" name="iGio90/packages_apps_Contacts" revision="bam6" />
   <project path="packages/apps/Settings" name="iGio90/packages_apps_Settings" revision="bam6" />
