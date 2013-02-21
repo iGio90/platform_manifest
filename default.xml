@@ -298,6 +298,7 @@
   <project path="packages/inputmethods/PinyinIME" name="CyanogenMod/android_packages_inputmethods_PinyinIME" />
   <project path="packages/providers/ApplicationsProvider" name="CyanogenMod/android_packages_providers_ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="CyanogenMod/android_packages_providers_CalendarProvider" />
+  <project path="packages/providers/DownloadProvider" name="CyanogenMod/android_packages_providers_DownloadProvider" />
   <project path="packages/providers/DrmProvider" name="CyanogenMod/android_packages_providers_DrmProvider" />
   <project path="packages/providers/MediaProvider" name="CyanogenMod/android_packages_providers_MediaProvider" />
   <project path="packages/providers/PartnerBookmarksProvider" name="CyanogenMod/android_packages_providers_PartnerBookmarksProvider" />
@@ -375,7 +376,6 @@
   <project path="packages/apps/Phone" name="iGio90/packages_apps_Phone" revision="bam6" />
   <project path="packages/apps/ROMControl" name="iGio90/packages_apps_ROMControl" revision="bam6" />
   <project path="packages/providers/ContactsProvider" name="iGio90/packages_providers_ContactsProver" revision="bam6" />
-  <project path="packages/providers/DownloadProvider" name="iGio90/android_packages_providers_DownloadProvider" revision="bam6" />
 
   <project path="system/core" name="iGio90/android_system_core" revision="bam6" />
 
