@@ -384,6 +384,7 @@
 
   <project path="jellybam" name="iGio90/jellybam" revision="bam6" >
     <copyfile dest="bam-build.sh" src="build.sh"/>
+    <copyfile dest="buildall.sh" src="buildall.sh"/>
   </project>
 
   <!-- Prop vendors -->
