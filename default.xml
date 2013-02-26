@@ -388,9 +388,12 @@
   </project>
 
   <!-- HTC Pyramid -->
-  <project name="Evervolv/android_device_htc_pyramid" path="device/htc/pyramid" revision="jellybean" />
-  <project name="Evervolv/android_device_htc_msm8660-common" path="device/htc/msm8660-common" revision="jellybean" />
-  <project name="Evervolv/android_kernel_htc_msm8660" path="kernel/htc/msm8660" revision="jellybean" />
+  <project name="Albinoman887/android_device_htc_msm8660-common" path="device/htc/msm8660-common" revision="cm-10.1" />
+  <project name="Albinoman887/android_device_htc_pyramid" path="device/htc/pyramid" revision="cm-10.1" />
+  <project name="Albinoman887/android_kernel_htc_pyramid" path="kernel/htc/msm8660" revision="ChronicBruce-v2-linaro" />
+  <project name="Albinoman887/android_vendor_htc_pyramid" path="vendor/htc/pyramid" revision="master" />
+  <project name="Albinoman887/android_hardware_qcom_display-legacy" path="hardware/qcom/display-legacy" revision="cm-10.1" />
+  <project name="Albinoman887/android_hardware_qcom_media-legacy" path="hardware/qcom/media-legacy" revision="cm-10.1" />
 
   <!-- Prop vendors -->
   <project name="TheMuppets/proprietary_vendor_acer" path="vendor/acer" revision="cm-10.1" />
