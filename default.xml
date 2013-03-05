@@ -179,6 +179,7 @@
   <project path="external/smali" name="CyanogenMod/android_external_smali" />
   <project path="external/sonivox" name="CyanogenMod/android_external_sonivox" />
   <project path="external/speex" name="CyanogenMod/android_external_speex" />
+  <project path="external/koush/Superuser" name="koush/Superuser" revision="master" />
   <project path="external/sqlite" name="CyanogenMod/android_external_sqlite" />
   <project path="external/srec" name="CyanogenMod/android_external_srec" />
   <project path="external/srtp" name="CyanogenMod/android_external_srtp" />
@@ -318,7 +319,6 @@
   <project path="prebuilt" name="CyanogenMod/android_prebuilt" />
   <project path="sdk" name="CyanogenMod/android_sdk" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" />
-  <project path="system/extras" name="CyanogenMod/android_system_extras" />
   <project path="system/media" name="CyanogenMod/android_system_media" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
   <project path="system/security" name="CyanogenMod/android_system_security" />
@@ -377,6 +377,7 @@
   <project path="packages/providers/ContactsProvider" name="iGio90/packages_providers_ContactsProvider" revision="bam6" />
 
   <project path="system/core" name="iGio90/android_system_core" revision="bam6" />
+  <project path="system/extras" name="iGio90/android_system_extras" revision="bam6" />
 
   <project path="vendor/jellybam" name="iGio90/jellybam_vendor" revision="bam6" />
   <project path="vendor/pa" name="iGio90/vendor_pa" revision="bam6" />
