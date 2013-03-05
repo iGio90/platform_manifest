@@ -324,7 +324,6 @@
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
   <project path="system/security" name="CyanogenMod/android_system_security" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
-  <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
   <project path="vendor/qcom/opensource/v8" name="CyanogenMod/android_vendor_qcom_opensource_v8" />
 
   <!-- AOSP -->
@@ -380,6 +379,7 @@
   <project path="system/core" name="iGio90/android_system_core" revision="bam6" />
   <project path="system/extras" name="iGio90/android_system_extras" revision="bam6" />
 
+  <project path="vendor/cm" name="iGio90/android_vendor_cm" revision="bam6" />
   <project path="vendor/jellybam" name="iGio90/jellybam_vendor" revision="bam6" />
   <project path="vendor/pa" name="iGio90/vendor_pa" revision="bam6" />
 
