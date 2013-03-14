@@ -217,7 +217,6 @@
   <project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" />
   <project path="frameworks/mff" name="CyanogenMod/android_frameworks_mff" />
   <project path="frameworks/ml" name="CyanogenMod/android_frameworks_ml" />
-  <project path="frameworks/native" name="CyanogenMod/android_frameworks_native" />
   <project path="frameworks/opt/calendar" name="CyanogenMod/android_frameworks_opt_calendar" />
   <project path="frameworks/opt/carddav" name="CyanogenMod/android_frameworks_opt_carddav" />
   <project path="frameworks/opt/emoji" name="CyanogenMod/android_frameworks_opt_emoji" />
@@ -369,6 +368,7 @@
   <project path="platform_manifest" name="iGio90/platform_manifest" revision="bam6" />
 
   <project path="frameworks/base" name="iGio90/android_frameworks_base" revision="bam6" />
+  <project path="frameworks/native" name="iGio90/android_frameworks_native" revision="bam6" />
 
   <project path="packages/apps/Contacts" name="iGio90/packages_apps_Contacts" revision="bam6" />
   <project path="packages/apps/Settings" name="iGio90/packages_apps_Settings" revision="bam6" />
