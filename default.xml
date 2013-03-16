@@ -390,7 +390,7 @@
 
   <project path="jellybam" name="jellybam" remote="bam" revision="bam6" >
     <copyfile dest="bam-build.sh" src="build.sh"/>
-    <copyfile dest="buildall.sh" src="buildall.sh"/>
+    <copyfile dest="changelog-gen.sh" src="changelog-gen.sh"/>
   </project>
 
   <!-- Prop vendors -->
