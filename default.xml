@@ -378,7 +378,7 @@
   <project path="packages/apps/Phone" name="android_packages_apps_Phone" remote="bam" revision="bam6" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="bam" revision="bam6" />
 
-  <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" remote="bam" revision="bam6" />
+  <project path="packages/inputmethods/LatinIME" name="android_packages_input_LatinIME" remote="bam" revision="bam6" />
 
   <project path="packages/providers/ContactsProvider" name="packages_providers_ContactsProvider" remote="bam" revision="bam6" />
 
