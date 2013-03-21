@@ -388,6 +388,7 @@
 
   <project path="vendor/cm" name="android_vendor_cm" remote="bam" revision="bam6" />
   <project path="vendor/jellybam" name="jellybam_vendor" remote="bam" revision="bam6" />
+  <project path="vendor/htc" name="android_vendor_htc" remote="bam" revision="bam6" />
   <project path="vendor/pa" name="vendor_pa" remote="bam" revision="bam6" />
 
   <project path="jellybam" name="jellybam" remote="bam" revision="bam6" >
