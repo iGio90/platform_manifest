@@ -402,12 +402,6 @@
     <copyfile dest="sony-release.sh" src="sony-release.sh"/>
   </project>
 
-  <!-- Custom devices -->
-  <project name="berni987654321/android_device_lge_p920" path="device/lge/p920" revision="cm-10.1" />
-  <project name="android_device_asus_tf300t" path="device/asus/tf300t" remote="bam" revision="bam6" />
-  <project name="android_device_asus_tf700t" path="device/asus/tf700t" remote="bam" revision="bam6" />
-  <project name="android_device_samsung_n8000" path="device/samsung/n8000" remote="bam" revision="bam6" />
-
   <!-- Prop vendors -->
   <project name="TheMuppets/proprietary_vendor_acer" path="vendor/acer" revision="cm-10.1" />
   <project name="TheMuppets/proprietary_vendor_akm" path="vendor/akm" revision="cm-10.1" />
