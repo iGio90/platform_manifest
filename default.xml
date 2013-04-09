@@ -398,11 +398,12 @@
   <project path="jellybam" name="jellybam" remote="bam" revision="bam6" >
     <copyfile dest="bam-build.sh" src="build.sh"/>
     <copyfile dest="changelog-gen.sh" src="changelog-gen.sh"/>
-    <copyfile dest="asus-release.sh" src="asus-release.sh"/>
-    <copyfile dest="htc-release.sh" src="htc-release.sh"/>
-    <copyfile dest="lge-release.sh" src="lge-release.sh"/>
-    <copyfile dest="sammy-release.sh" src="sammy-release.sh"/>
-    <copyfile dest="sony-release.sh" src="sony-release.sh"/>
+    <copyfile dest="asus_release.sh" src="asus_release.sh"/>
+    <copyfile dest="htc_release.sh" src="htc_release.sh"/>
+    <copyfile dest="lge_release.sh" src="lge_release.sh"/>
+    <copyfile dest="sammy_release.sh" src="sammy_release.sh"/>
+    <copyfile dest="sony_release.sh" src="sony_release.sh"/>
+    <copyfile dest="unsupported_htc.sh" src="unsupported_htc.sh"/>
   </project>
 
   <!-- Prop vendors -->
