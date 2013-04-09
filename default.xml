@@ -242,7 +242,6 @@
   <project path="hardware/qcom/audio-caf" name="CyanogenMod/android_hardware_qcom_audio-caf" />
   <project path="hardware/qcom/bt" name="CyanogenMod/android_hardware_qcom_bt" />
   <project path="hardware/qcom/camera" name="CyanogenMod/android_hardware_qcom_camera" />
-  <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
   <project path="hardware/qcom/keymaster" name="CyanogenMod/android_hardware_qcom_keymaster" />
   <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" />
@@ -363,6 +362,7 @@
   <project path="frameworks/base" name="android_frameworks_base" remote="bam" revision="bam6" />
   <project path="frameworks/native" name="android_frameworks_native" remote="bam" revision="bam6" />
 
+  <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="bam" revision="bam6" />
   <project path="hardware/qcom/display-caf" name="android_hardware_qcom_display-caf" remote="bam" revision="bam6" />
 
   <project path="packages/apps/BamPapers" name="packages_apps_jellybam_papers" remote="bam" revision="jellybam" />
