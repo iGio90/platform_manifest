@@ -397,6 +397,7 @@
   <project path="jellybam" name="jellybam" remote="bam" revision="bam6" >
     <copyfile dest="bam-build.sh" src="build.sh"/>
     <copyfile dest="changelog-gen.sh" src="changelog-gen.sh"/>
+    <copyfile dest="amazon_release.sh" src="amazon_release.sh"/>
     <copyfile dest="asus_release.sh" src="asus_release.sh"/>
     <copyfile dest="htc_release.sh" src="htc_release.sh"/>
     <copyfile dest="lge_release.sh" src="lge_release.sh"/>
