@@ -402,6 +402,7 @@
     <copyfile dest="asus_release.sh" src="asus_release.sh"/>
     <copyfile dest="htc_release.sh" src="htc_release.sh"/>
     <copyfile dest="lge_release.sh" src="lge_release.sh"/>
+    <copyfile dest="motorola_release.sh" src="motorola_release.sh"/>
     <copyfile dest="sammy_release.sh" src="sammy_release.sh"/>
     <copyfile dest="sony_release.sh" src="sony_release.sh"/>
     <copyfile dest="unsupported_htc.sh" src="unsupported_htc.sh"/>
