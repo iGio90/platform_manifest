@@ -382,7 +382,7 @@
   <project path="packages/inputmethods/LatinIME" name="android_packages_input_LatinIME" remote="bam" revision="bam6" />
 
   <project path="packages/providers/ContactsProvider" name="packages_providers_ContactsProvider" remote="bam" revision="bam6" />
-  <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" "bam" revision="bam6" />
+  <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" remote="bam" revision="bam6" />
 
   <project path="prebuilts/misc" name="android_prebuilts_misc" remote="bam" revision="bam6" />
 
